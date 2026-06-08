@@ -28,7 +28,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a Postdoctoral Researcher at the [Delft Center for Systems and Control (DCSC)](https://www.tudelft.nl/en/3me/about/departments/delft-center-for-systems-and-control), TU Delft, working under [Prof. Bart De Schutter](https://www.tudelft.nl/staff/b.deschutter/) on the ERC Advanced Grant project [CLariNet](https://www.tudelft.nl/en/innovatie-impact/project-cases/projects-2023/clarinet).
+I am a Postdoctoral Researcher at the Delft Center for Systems and Control (DCSC), TU Delft, working under [Prof. Bart De Schutter](https://www.tudelft.nl/staff/b.deschutter/) on the ERC Advanced Grant project [CLariNet](https://www.tudelft.nl/en/innovatie-impact/project-cases/projects-2023/clarinet).
 
 My research develops **provably safe controllers** for autonomous systems operating under real-world uncertainties. I specialize in **Control Barrier Functions (CBFs)**. A defining aspect of my work is experimental validation: [theoretical safety guarantees are tested in closed environment](https://youtu.be/QX1f45XKJgg?si=EN9DB9RhkdGKa8Lv), [integration with energy-optimal controllers are validated on highway](https://youtu.be/yBbQW2Bi_5g?si=dGRqKfbbaBgMCu6w) using a connected and automated heavy-duty truck in collaboration with Navistar, Inc.
 
