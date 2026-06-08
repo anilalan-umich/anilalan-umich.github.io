@@ -30,11 +30,9 @@ latest_posts:
 
 I am a Postdoctoral Researcher at the [Delft Center for Systems and Control (DCSC)](https://www.tudelft.nl/en/3me/about/departments/delft-center-for-systems-and-control), TU Delft, working under [Prof. Bart De Schutter](https://www.tudelft.nl/staff/b.deschutter/) on the ERC Advanced Grant project [CLariNet](https://www.tudelft.nl/en/3me/about/departments/delft-center-for-systems-and-control/research/projects/clarinet).
 
-My research develops **provably safe controllers** for autonomous systems operating under real-world uncertainties. I specialize in **Control Barrier Functions (CBFs)** and have contributed methods spanning input-to-state safe CBFs, disturbance observer-based CBFs, parameterized CBFs under uncertainty, and predictive CBFs for hybrid systems — each providing formal safety guarantees that scale to practical deployment. A defining aspect of my work is experimental validation: I designed and field-tested safety-critical controllers for highway-driving heavy-duty trucks in collaboration with [Navistar, Inc.](https://www.navistar.com) (TRL 5–6), and energy-critical controllers with [Allison Transmission](https://www.allisontransmission.com).
+My research develops **provably safe controllers** for autonomous systems operating under real-world uncertainties. I specialize in **Control Barrier Functions (CBFs)**. A defining aspect of my work is experimental validation: I designed and field-tested safety-critical controllers for highway-driving heavy-duty trucks in collaboration with [Navistar, Inc.](https://www.navistar.com), and energy-critical controllers with [Allison Transmission](https://www.allisontransmission.com).
 
 I received my Ph.D. in Mechanical Engineering from the [University of Michigan](https://umich.edu) in 2024, advised by [Prof. Gábor Orosz](https://orosz.engin.umich.edu), and was recognized with the **Prof. Pierre T. Kabamba Award** (2025), a **Rackham Predoctoral Fellowship** (2023), and the **Best Student Paper Award** at ACC 2023. I hold an M.Sc. from Bilkent University (2017) and a B.Sc. from the Middle East Technical University (2013).
-
-I am currently seeking **tenure-track faculty positions**.
 
 ## Selected Projects
 
