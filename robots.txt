@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://anilalan-umich.github.io/sitemap.xml
+Sitemap: https://anilalan.nl/sitemap.xml
