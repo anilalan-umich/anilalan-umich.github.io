@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presenting at <a href="https://ecc26.eu">ECC 2026</a> in Reykjavik and co-chairing a session. Paper: <em>Uniform Feasibility for Smoothed Backup Control Barrier Functions</em>.
+Presenting at  <a href="https://ecc26.euca-ecc.org/">ECC 2026</a> in Reykjavik and co-chairing a session. Paper: <em>Uniform Feasibility for Smoothed Backup Control Barrier Functions</em>.
