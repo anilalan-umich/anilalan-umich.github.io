@@ -1,9 +1,9 @@
 layout: about
   title: about
   permalink: /
-  subtitle: >
-    Postdoctoral Researcher · <a href="https://www.tudelft.nl/en/3me/about/departments/delft-center-for-systems-and-control">Delft Center
-  for Systems and Control</a>, TU Delft
+    subtitle: Postdoctoral Researcher · <a
+  href="https://www.tudelft.nl/en/3me/about/departments/delft-center-for-systems-and-control">Delft Center for Systems and Control</a>,
+  TU Delft  
   
   profile:
     align: right
