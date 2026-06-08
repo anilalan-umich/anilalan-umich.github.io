@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited talk at <em>Young Researchers in Mechanical Engineering</em>, Bilkent University.
+Invited talk at <a href="https://me.bilkent.edu.tr/5-news/1072-events-and-updates/1934-speaker-anil-alan/"><em>Young Researchers in Mechanical Engineering</em></a>, Bilkent University.

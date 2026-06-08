@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Gave a department seminar at DCSC, TU Delft on robust and predictive control barrier functions.
+Gave a department seminar at DCSC, TU Delft on robust and predictive control barrier functions. <a href="https://www.youtube.com/watch?v=qALKwRwbLhM">Watch on YouTube</a>.
